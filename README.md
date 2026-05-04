@@ -1,4 +1,4 @@
-Trabajo hecho el 19-11-2024 en la universidad
+Trabajo hecho el 19-11-2024.
 
 [GitHub: Ch4mbi](https://github.com/Ch4mbi)
 
