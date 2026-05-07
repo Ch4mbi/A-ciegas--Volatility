@@ -48,3 +48,5 @@ Un empleado llega a su puesto a las 8:30 y se da cuenta de que ciertos ficheros 
 - Se usó virtualbox como posible mecanismo de anonimato
 - Parece haber varios procesos que indican inyección de código
 - Se ejecutó DumpIt.exe, haciendo posible que el atacante haya realizado su propio volcado de memoria 
+
+[A ciegas -- Volatility](https://github.com/Ch4mbi/A-ciegas--Volatility/blob/main/A%20ciegas-Volatility.md)
