@@ -2,6 +2,8 @@
 Trabajo de análisis forense realizado el 19/11/2024 como caso de estudio académico.
 La herramienta usada fue volatility 2.6 en Windows
 
+[Github: Ch4mbi](https://github.com/Ch4mbi)
+
 ## Descripción
 Un empleado llega a su puesto a las 8:30 y se da cuenta de que ciertos ficheros confidenciales han desaparecido. Esto implicaba que alguien habia accedido sin autorización y robó información sensible. El objetivo del análisis era el de determinar quien accedió al sistema y como por medio de analisis de memoria RAM.
 
